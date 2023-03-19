@@ -1,5 +1,9 @@
 
 /* Your CSS Code here. */
+p {
+    display: inline;
+}
+
 .favorite-color {
     color: purple;
 }
